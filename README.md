@@ -1,16 +1,14 @@
-### Hi there 👋
+<!--Temas : great-gatsby, transparent-->
+[![Gmorales' GitHub stats](https://github-readme-stats.vercel.app/api?username=gmorales08&count_private=true&show_icons=true&theme=great-gatsby#gh-dark-mode-only)](https://github.com/gmorales08/gmorales08#gh-dark-mode-only)
+[![Gmorales' GitHub stats](https://github-readme-stats.vercel.app/api?username=gmorales08&count_private=true&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/gmorales08/gmorales08#gh-light-mode-only)
 
-<!--
-**gmorales08/gmorales08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmorales08&layout=compact&theme=great-gatsby#gh-dark-mode-only)](https://github.com/gmorales08/gmorales08#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmorales08&layout=compact&theme=transparent#gh-light-mode-only)](https://github.com/gmorales08/gmorales08#gh-light-mode-only)
 
-Here are some ideas to get you started:
+### Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:star: :star: :star: ![Java](https://img.shields.io/badge/Java?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/PHP-white?style=flat&logo=php)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
