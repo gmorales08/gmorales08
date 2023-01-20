@@ -9,11 +9,12 @@ Currently, im trying to specialize in Java and C/C++ languages, but i want to di
 I also like Linux and Open Software.  
 
 <!--Temas : great-gatsby, transparent-->
-[![Gmorales' GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=gmorales08&count_private=true&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/gmorales08/gmorales08#gh-dark-mode-only)
-[![Gmorales' GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=gmorales08&count_private=true&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/gmorales08/gmorales08#gh-light-mode-only)
+<!--github-readme-stats-ruby-one-->
+[![Gmorales' GitHub stats](https://github-readme-stats.vercel.app/api?username=gmorales08&count_private=true&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/gmorales08/gmorales08#gh-dark-mode-only)
+[![Gmorales' GitHub stats](https://github-readme-stats.vercel.app/api?username=gmorales08&count_private=true&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/gmorales08/gmorales08#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=gmorales08&layout=compact&langs_count=6&exclude_repo=Universidad&theme=transparent#gh-dark-mode-only)](https://github.com/gmorales08/gmorales08#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=gmorales08&layout=compact&langs_count=6&theme=transparent#gh-light-mode-only)](https://github.com/gmorales08/gmorales08#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmorales08&layout=compact&langs_count=6&exclude_repo=Universidad&theme=transparent#gh-dark-mode-only)](https://github.com/gmorales08/gmorales08#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmorales08&layout=compact&langs_count=6&theme=transparent#gh-light-mode-only)](https://github.com/gmorales08/gmorales08#gh-light-mode-only)
 
 ### Languages and Tools
 
