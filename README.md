@@ -10,6 +10,7 @@ I also like Linux and Open Software.
 
 <!--Temas : great-gatsby, transparent-->
 <!--github-readme-stats-ruby-one-->
+<!--Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 [![Gmorales' GitHub stats](https://github-readme-stats-gmorales08.vercel.app/api?username=gmorales08&count_private=true&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/gmorales08/gmorales08#gh-dark-mode-only)
 [![Gmorales' GitHub stats](https://github-readme-stats-gmorales08.vercel.app/api?username=gmorales08&count_private=true&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/gmorales08/gmorales08#gh-light-mode-only)
 
@@ -31,7 +32,7 @@ I also like Linux and Open Software.
 
 :star:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 Others: 
