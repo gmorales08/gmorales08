@@ -1,8 +1,8 @@
 ## Hi, im Gabriel Morales.
 
-I'm a junior programmer and I'm studying computer science and informatic engineering.
+I'm studying computer science and informatic engineering.
 <br/>
-I like to program in my free time too. 
+I like to program in my free time. 
 <br/><br/>
 Currently, im trying to specialize in Java and C/C++ languages, but i want to discover other languages.
 <br/>
