@@ -4,7 +4,7 @@ I'm studying computer science and informatic engineering.
 <br/>
 I like to program in my free time. 
 <br/><br/>
-Currently, im trying to specialize in Java and C/C++ languages, but i want to discover other languages.
+Currently, im trying to specialize in C/C++ languages, but i want to discover other languages.
 <br/>
 I also like Linux and Open Software.  
 
