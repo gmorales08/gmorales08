@@ -1,11 +1,10 @@
 ## Hi, im Gabriel Morales.
 
 I'm studying computer science and informatic engineering.
-<br/>
-I like to program in my free time. 
 <br/><br/>
 Currently, im trying to specialize in C/C++ languages, but i want to discover other languages.
 <br/>
+My interests are Low Level Programming, Computer Architecture, Optimization and GameDev.
 I also like Linux and Open Software.  
 
 <!--Temas : great-gatsby, transparent-->
