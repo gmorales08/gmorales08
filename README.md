@@ -5,6 +5,7 @@ I'm a computer science and informatics engineer.
 Currently, im trying to specialize in C++ language.
 <br/>
 My interests are Low Level Programming, Computer Architecture, Optimization and GameDev.
+<br>
 I like Linux and Open Software.  
 
 <!--Temas : great-gatsby, transparent-->
