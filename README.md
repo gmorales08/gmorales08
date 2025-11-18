@@ -18,8 +18,8 @@ I'm a Linux enthusiast and prefer to work with open-source tools.
 [![Gmorales' GitHub stats](https://github-readme-stats-gmorales08.vercel.app/api?username=gmorales08&count_private=true&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/gmorales08/gmorales08#gh-dark-mode-only)
 [![Gmorales' GitHub stats](https://github-readme-stats-gmorales08.vercel.app/api?username=gmorales08&count_private=true&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/gmorales08/gmorales08#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats-gmorales08.vercel.app/api/top-langs/?username=gmorales08&layout=compact&langs_count=6&exclude_repo=Universidad&exclude_repo=ArenaDeCombate,Bingo,TresEnRaya&theme=transparent#gh-dark-mode-only)](https://github.com/gmorales08/gmorales08#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats-gmorales08.vercel.app//api/top-langs/?username=gmorales08&layout=compact&langs_count=6&exclude_repo=Universidad&exclude_repo=ArenaDeCombate&exclude_repo=Bingo&exclude_repo=TresEnRaya&theme=transparent#gh-light-mode-only)](https://github.com/gmorales08/gmorales08#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats-gmorales08.vercel.app/api/top-langs/?username=gmorales08&layout=compact&langs_count=6&exclude_repo=Universidad,ArenaDeCombate,Bingo,TresEnRaya&theme=transparent#gh-dark-mode-only)](https://github.com/gmorales08/gmorales08#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-gmorales08.vercel.app//api/top-langs/?username=gmorales08&layout=compact&langs_count=6&exclude_repo=Universidad,ArenaDeCombate,Bingo,TresEnRaya&theme=transparent#gh-light-mode-only)](https://github.com/gmorales08/gmorales08#gh-light-mode-only)
 
 ### Languages and Tools
 
