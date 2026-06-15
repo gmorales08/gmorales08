@@ -15,6 +15,7 @@ I'm a Linux enthusiast and prefer to work with open-source tools.
 <!--Temas : great-gatsby, transparent-->
 <!--github-readme-stats-ruby-one-->
 <!--Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile-->
+<!--Iconos: https://simpleicons.org/ -->
 [![Gmorales' GitHub stats](https://github-readme-stats-gmorales08.vercel.app/api?username=gmorales08&count_private=true&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/gmorales08/gmorales08#gh-dark-mode-only)
 [![Gmorales' GitHub stats](https://github-readme-stats-gmorales08.vercel.app/api?username=gmorales08&count_private=true&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/gmorales08/gmorales08#gh-light-mode-only)
 
@@ -28,10 +29,12 @@ I'm a Linux enthusiast and prefer to work with open-source tools.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 
 ◽ :star: :star:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![x86](https://img.shields.io/badge/x86-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -40,6 +43,8 @@ I'm a Linux enthusiast and prefer to work with open-source tools.
 ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Cuda](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![VHDL](https://img.shields.io/badge/VHDL-%232C3E50.svg?style=for-the-badge&logo=open-source-hardware&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-%232C3E50.svg?style=for-the-badge&logo=open-source-hardware&logoColor=white)
 
 Others: 
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
